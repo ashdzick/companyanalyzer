@@ -2,6 +2,8 @@
 
 An AI-powered company research tool that tells you whether a company is worth pursuing before you spend time applying. Give it a company name and get a structured assessment covering funding, growth, leadership, culture, and reputation + a clear verdict: pursue, watch, or skip.
 
+Read more about how it works at [dzick.com/content/researcher](https://dzick.com/content/researcher).
+
 ---
 
 ## Files in This System
